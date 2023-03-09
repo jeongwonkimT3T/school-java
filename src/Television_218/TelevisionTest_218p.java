@@ -17,5 +17,6 @@ public class TelevisionTest_218p {
 
     // 출력
     System.out.println("현재 채널은 " + ch + "입니다.");
+
   }
 }
